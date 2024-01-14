@@ -27,3 +27,5 @@ To get More Tricks and Tips Make Sure subscribe to the channel.
 [Create multiple route in next.js](https://www.youtube.com/watch?v=dNgvElFRymU&t=5s&ab_channel=DevRahaman)
 
 [Create and Design a Vertical Timeline Using NPM Package](https://www.youtube.com/watch?v=EZr3Deqnim8&ab_channel=DevRahaman)
+
+[How to Create a Star Rating Component in React without any component library](https://www.youtube.com/watch?v=2JSJ7wuVfog)
