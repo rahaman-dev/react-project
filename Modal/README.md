@@ -13,3 +13,5 @@ Welcome what is Popup Modal in React JS In this tutorial I will be building a cu
 [Create and Design a Vertical Timeline Using NPM Package](https://www.youtube.com/watch?v=EZr3Deqnim8&ab_channel=DevRahaman)
 
 [How to Create a Star Rating Component in React without any component library](https://www.youtube.com/watch?v=2JSJ7wuVfog)
+
+[Changing Title Dynamically for each page using react.js](https://youtu.be/ttqR3emxxrg)
